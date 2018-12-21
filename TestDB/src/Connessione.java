@@ -29,14 +29,14 @@ public class Connessione {
 			
 			//ResultSet rs = statement.executeQuery(); //quando eseguo una query lascio il while
 			
-			statement.executeUpdate(); 	//eseguendo un update non ho necessità di fare il while
+			statement.executeUpdate(); 	//eseguendo un update non ho necessitï¿½ di fare il while
 			
 			
 //			
 //			while (rs.next()) {
-//				//in questo caso devo cominciare a mappare il database con le classi Java perché in base al dato che ho mi adeguo 
+//				//in questo caso devo cominciare a mappare il database con le classi Java perchï¿½ in base al dato che ho mi adeguo 
 //				System.out.println(rs.getInt("id_cat"));
-//				System.out.println(rs.getDouble(6));  //questo è l'indice della colonna dove si trovano i prezzi nella tabella prodotti
+//				System.out.println(rs.getDouble(6));  //questo ï¿½ l'indice della colonna dove si trovano i prezzi nella tabella prodotti
 //				
 //			}
 		
